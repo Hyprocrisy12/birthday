@@ -35,18 +35,39 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "周周周周周哥": "./imgs/mmexport1665668902613.jpg",
+        "送给我们的宝贝":"./imgs/zzy2.jpg",
+        "周周周周周子业":"./imgs/zzy.jpg",
+        "今天你生日，送上我祝福":"./imgs/szf1.jpg",
+
+        "特别的日子有灿烂的笑容":"./imgs/hy2.jpg",
+        
+        
+        
+        "带着满满的关爱，祝福你好运常伴":"./imgs/zzy2.jpg",
+       
+        "点燃了蜡烛，许下你心愿":"./imgs/cake.png",
+        
+        "未来的日子每个梦想都实现":"./imgs/wt1.jpg",
+       
+        "唱首祝福歌":"./imgs/wt2.jpg",
+
+        "祝福你健康平安":"./imgs/zzy.jpg",
+        "对所有的烦恼说 bye bye":"./imgs/eg2.jpg",
+        "对所有的快乐说 hi hi":"./imgs/eg.jpg",
+        "亲爱的亲爱的生日快乐":"./imgs/szf2.jpg",
+
+       
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "芜湖！",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "OUR MEMORY FOR YOU",
     }
 };
